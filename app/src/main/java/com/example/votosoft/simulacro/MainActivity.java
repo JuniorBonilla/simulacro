@@ -15,15 +15,15 @@ public class MainActivity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent splash = new Intent(MainActivity.this, registrar_persona.class);
+                Intent splash = new Intent(MainActivity.this, nombre_item.class);
                 startActivity(splash);
             }
 
         },3000);
     }
-/*
-    public void onclick(View view){
-        Intent splash2 = new Intent(this, nombre_item.class );
+
+    public void onclick(View view) {
+        Intent splash2 = new Intent(this, registrar_persona.class);
         startActivity(splash2);
-    }*/
+    }
 }
