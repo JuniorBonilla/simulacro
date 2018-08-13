@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent splash = new Intent(MainActivity.this, lista_categorias.class);
                 startActivity(splash);
             }
+            //joto
         },3000);
     }
 
