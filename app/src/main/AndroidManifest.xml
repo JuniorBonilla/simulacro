@@ -16,7 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".lista_categorias"></activity>
+        <activity android:name=".lista_categorias" />
+        <activity android:name=".items_que_visitar" />
+        <activity android:name=".items_donde_dormir" />
+        <activity android:name=".items_donde_comer" />
+        <activity android:name=".items_que_hacer" />
+        <activity android:name=".items_servicios_turisticos" />
+        <activity android:name=".items_llamadas"></activity>
     </application>
 
 </manifest>

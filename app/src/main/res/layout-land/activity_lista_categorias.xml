@@ -27,8 +27,8 @@
                     android:orientation="horizontal">
 
                     <ImageView
-                        android:layout_width="240dp"
-                        android:layout_height="130dp"
+                        android:layout_width="400dp"
+                        android:layout_height="200dp"
                         android:background="@drawable/turismo" />
 
                     <LinearLayout
@@ -38,14 +38,15 @@
 
                         <ImageView
                             android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
+                            android:layout_height="100dp"
                             android:background="@drawable/uno" />
 
                         <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_width="match_parent"
+                            android:layout_height="100dp"
                             android:text="¿Que Visitar?"
-                            android:textSize="20dp"
+                            android:textAlignment="center"
+                            android:textSize="25dp"
                             android:textStyle="bold" />
                     </LinearLayout>
                 </LinearLayout>
@@ -65,8 +66,8 @@
                     android:orientation="horizontal">
 
                     <ImageView
-                        android:layout_width="240dp"
-                        android:layout_height="130dp"
+                        android:layout_width="400dp"
+                        android:layout_height="200dp"
                         android:background="@drawable/turismo" />
 
                     <LinearLayout
@@ -76,14 +77,15 @@
 
                         <ImageView
                             android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
+                            android:layout_height="100dp"
                             android:background="@drawable/seis" />
 
                         <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_width="match_parent"
+                            android:layout_height="100dp"
                             android:text="¿Dónde Dormir?"
-                            android:textSize="20dp"
+                            android:textAlignment="center"
+                            android:textSize="25dp"
                             android:textStyle="bold" />
                     </LinearLayout>
                 </LinearLayout>
@@ -103,8 +105,8 @@
                     android:orientation="horizontal">
 
                     <ImageView
-                        android:layout_width="240dp"
-                        android:layout_height="130dp"
+                        android:layout_width="400dp"
+                        android:layout_height="200dp"
                         android:background="@drawable/turismo" />
 
                     <LinearLayout
@@ -114,14 +116,15 @@
 
                         <ImageView
                             android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
+                            android:layout_height="100dp"
                             android:background="@drawable/dos" />
 
                         <TextView
                             android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_height="100dp"
                             android:text="¿Dónde Comer?"
-                            android:textSize="20dp"
+                            android:textAlignment="center"
+                            android:textSize="25dp"
                             android:textStyle="bold" />
                     </LinearLayout>
                 </LinearLayout>
@@ -141,8 +144,8 @@
                     android:orientation="horizontal">
 
                     <ImageView
-                        android:layout_width="240dp"
-                        android:layout_height="130dp"
+                        android:layout_width="400dp"
+                        android:layout_height="200dp"
                         android:background="@drawable/turismo" />
 
                     <LinearLayout
@@ -152,14 +155,15 @@
 
                         <ImageView
                             android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
+                            android:layout_height="100dp"
                             android:background="@drawable/cinco" />
 
                         <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_width="match_parent"
+                            android:layout_height="100dp"
                             android:text="Categoria"
-                            android:textSize="20dp"
+                            android:textAlignment="center"
+                            android:textSize="25dp"
                             android:textStyle="bold"
                             tools:text="¿Qué Hacer?" />
                     </LinearLayout>
@@ -180,8 +184,8 @@
                     android:orientation="horizontal">
 
                     <ImageView
-                        android:layout_width="240dp"
-                        android:layout_height="130dp"
+                        android:layout_width="400dp"
+                        android:layout_height="200dp"
                         android:background="@drawable/turismo" />
 
                     <LinearLayout
@@ -191,14 +195,15 @@
 
                         <ImageView
                             android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
+                            android:layout_height="100dp"
                             android:background="@drawable/cuatro" />
 
                         <TextView
                             android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_height="100dp"
                             android:text="Servicios Turísticos"
-                            android:textSize="20dp"
+                            android:textAlignment="center"
+                            android:textSize="25dp"
                             android:textStyle="bold" />
                     </LinearLayout>
                 </LinearLayout>
@@ -218,8 +223,8 @@
                     android:orientation="horizontal">
 
                     <ImageView
-                        android:layout_width="240dp"
-                        android:layout_height="130dp"
+                        android:layout_width="400dp"
+                        android:layout_height="200dp"
                         android:background="@drawable/turismo" />
 
                     <LinearLayout
@@ -229,14 +234,15 @@
 
                         <ImageView
                             android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
+                            android:layout_height="100dp"
                             android:background="@drawable/tres" />
 
                         <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_width="match_parent"
+                            android:layout_height="100dp"
                             android:text="Llamadas Urgentes"
-                            android:textSize="20dp"
+                            android:textAlignment="center"
+                            android:textSize="25dp"
                             android:textStyle="bold" />
                     </LinearLayout>
                 </LinearLayout>
